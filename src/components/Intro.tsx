@@ -1,5 +1,5 @@
 import React, {useEffect} from "react";
-import {AVAILABLE_COLOR, CHANNEL, NBR_OF_COL, NBR_OF_LINE} from "../App";
+import {AVAILABLE_COLOR, CHANNEL, NBR_OF_COL, NBR_OF_LINE} from "../config";
 
 
 export const Intro = () => {

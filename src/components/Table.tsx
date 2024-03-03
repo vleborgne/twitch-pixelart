@@ -1,4 +1,4 @@
-import {CELL_SIZE} from "../App";
+import {CELL_SIZE} from "../config";
 import {Cell} from "./Cell";
 
 

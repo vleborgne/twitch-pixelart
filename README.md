@@ -14,7 +14,7 @@ For example, if a user types "pixel 4:10 chartreuse" in the Twitch chat, the pix
 - Install npm
 - type "npm install" in a terminal
 
-In the file src/App.tsx change
+In the file src/config.ts change
 ``
 // Your target chanel (usually the usermname)
 const CHANNEL = '#xxx';  // Replace with your channel, starts with #

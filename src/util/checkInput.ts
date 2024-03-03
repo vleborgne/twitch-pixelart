@@ -1,4 +1,4 @@
-import {AVAILABLE_COLOR, NBR_OF_COL, NBR_OF_LINE} from "../App";
+import {AVAILABLE_COLOR, NBR_OF_COL, NBR_OF_LINE} from "../config";
 
 
 export const checkAndParseInput = ({x, y, color}: { x: string, y: string, color: string }) => {

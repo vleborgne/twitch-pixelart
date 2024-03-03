@@ -1,5 +1,5 @@
-import {CELL_SIZE} from "../App";
 import React from "react";
+import {CELL_SIZE} from "../config";
 
 export const Cell = React.memo(({color}: { color: string }) => {
     console.log("render cell", color)
