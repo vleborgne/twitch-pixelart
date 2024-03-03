@@ -8,11 +8,11 @@ import {Intro} from "./components/Intro";
 
 
 // Your target chanel (usually the usermname)
-export const CHANNEL = '#grandv22';  // Replace with your channel, starts with #
+export const CHANNEL = '#johndoe';  // Replace with your channel, starts with #
 // Your account
-export const ACCOUNT = 'grandv22';   // Replace with the account the bot runs as
+export const ACCOUNT = 'johndoe';   // Replace with the account the bot runs as
 // Password can be generated here https://twitchapps.com/tmi/
-export const PASSWORD = 'oauth:11v3ns0dicwdtw87aq9kgzq8fm56vc';
+export const PASSWORD = 'oauth:xxx';
 
 // Size of the grid
 export const NBR_OF_LINE = 100;
