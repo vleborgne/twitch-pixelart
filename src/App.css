@@ -10,6 +10,7 @@ body {
     width:400px;
     text-align:left;
     padding-left: 200px;
+    padding-right:20px;
     font-size:22px;
 }
 .Intro ul{
@@ -19,4 +20,8 @@ body {
 
 .Content{
     display: flex;
+}
+
+.footer{
+    margin-top: 10px;
 }

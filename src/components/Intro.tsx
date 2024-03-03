@@ -26,7 +26,6 @@ export const Intro = () => {
 
             <p>Current grid size is <b>{NBR_OF_LINE}x{NBR_OF_COL}</b></p>
 
-            Source code : <b> https://github.com/vleborgne/twitch-pixelart</b>
         </p>
     </div>
 }
