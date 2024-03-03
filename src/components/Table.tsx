@@ -8,7 +8,9 @@ export const Table = ({table}: { table: Array<Array<string>> }) => {
         <div style={{
             display: 'grid',
             gridTemplateColumns: `repeat(${table[0].length}, 1fr)`,
-            width: `${table[0].length * CELL_SIZE}px`
+            width: `${table[0].length * CELL_SIZE}px`,
+            marginLeft: 'auto',
+            marginRight: 'auto'
         }}>
             {table.map((row, rowIndex) => (
                 row.map((color, colIndex) => (

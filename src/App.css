@@ -1,0 +1,22 @@
+body {
+    background-color : NavajoWhite;
+    font-family: 'Luckiest Guy', cursive;
+
+}
+.App{
+    text-align: center;
+}
+.Intro{
+    width:400px;
+    text-align:left;
+    padding-left: 200px;
+    font-size:22px;
+}
+.Intro ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.Content{
+    display: flex;
+}
